@@ -1,0 +1,5 @@
+opencv-python
+mediapipe
+scikit-learn
+#shutil e pickle ja são do python
+imgaug
