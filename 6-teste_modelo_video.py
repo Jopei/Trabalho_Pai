@@ -8,6 +8,7 @@ import time
 model_dict = pickle.load(open('./model.p', 'rb'))
 model = model_dict['model']
 
+
 # Iniciar captura de vídeo
 # Caminho para o vídeo
 video_path = './video03.mp4'  # Substitua pelo caminho do seu vídeo
